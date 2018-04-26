@@ -2,4 +2,4 @@
 
 Hello world ! 
 
-This is my first github repositoy.
+This is my first github repository.
